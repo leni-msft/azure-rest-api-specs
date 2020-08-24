@@ -828,7 +828,7 @@
       }
     },
     "/subscriptions/{subscriptionId}/resourceGroups/{resourceGroupName}/providers/Microsoft.Cdn/profiles/{profileName}/endpoints/{endpointName}/stop": {
-      "post": {
+      "put": {
         "tags": [
           "Endpoints"
         ],
