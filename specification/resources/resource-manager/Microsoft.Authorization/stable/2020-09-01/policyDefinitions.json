@@ -563,9 +563,7 @@
         },
         "allowedValues": {
           "type": "array",
-          "items": {
-            "type": "object"
-          },
+          "items": {},
           "description": "The allowed values for the parameter."
         },
         "defaultValue": {
